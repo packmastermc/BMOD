@@ -1,2 +1,4 @@
 # BMOD
-modified version minesraft2/blooket-cheats with few code tweaks and improvements
+Custom-built regularly-updated blooket cheat built to be the successor to other cheats.
+This mod combines the top-quality features from many top blooket cheats.
+# 
