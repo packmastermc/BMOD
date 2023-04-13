@@ -1,4 +1,4 @@
-javascript: (function(_0x5331e9, _0x51122b) {
+(function(_0x5331e9, _0x51122b) {
    var _0x3e3500 = _0x26e1,
       _0xf0447b = _0x5331e9();
    while (!![]) {
